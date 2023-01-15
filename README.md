@@ -1,7 +1,7 @@
 ## Olá! Eu sou o André Massena Belo. 😊 
 
-- 🔭 Desenvolvimento Web Full-Stack Jr.
-- ⌛ Aprimorando/Estudando: React | JavaScript | HTML | CSS 
+- 🔭 Desenvolvimento Web Full-Stack. (Entusiasta de TypeScript)
+- ⌛ Aprimorando/Estudando: React | JavaScript | HTML | CSS / Node / MySQL / TypeScript / Express / Jest / Git 
 - ✨ Pronouns: Ele/Dele
 
 <br>
